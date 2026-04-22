@@ -22,9 +22,8 @@ The core questions driving this dashboard:
 | Payment Methods Analyzed | 4 |
 | Currencies Monitored | 2 (KES & USD) |
 
----
 
-## 📈Dashboard Features
+## Dashboard Features
 ### Transactions by Month
 A time-series line chart tracking monthly transaction value across a full calendar year. The data reveals a **notable dip in March**, followed by a gradual recovery and relative stability from May through December — a pattern useful for forecasting and anomaly detection.
 
@@ -46,13 +45,12 @@ The near-even distribution across methods highlights a market that hasn't fully 
 ### Dominant Currency
 A pie chart revealing that **USD accounts for 53.81%** of transaction value vs. **KES at 46.19%** — suggesting a significant cross-border or dollarized segment within the user base, with direct implications for FX risk and product localization.
 
----
 
 ## Tools & Technologies
 - Microsoft Excel (Data Cleaning & Data Analysis)
 - Power BI (Data Visualization)
+- Deepseek (Dataset generation)
 
----
 
 ## Insights & Business Takeaways
 1. **Healthcare is the #1 spending category** at over Ksh 150M — in a market context, this could signal opportunities for health-focused financial products like insurance payment plans or medical credit lines.
