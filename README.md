@@ -61,9 +61,3 @@ A pie chart revealing that **USD accounts for 53.81%** of transaction value vs. 
 4. **Withdrawal as the top transaction type** suggests users are converting digital balances to cash, which is a characteristic behavior in emerging digital finance markets and affects liquidity planning.
 5. **Stable monthly volumes (May–Dec)** after a Q1 dip suggest either a seasonal effect or a one-time disruption — worth investigating with cohort analysis as a follow-up.
 
----
-
-## 📬 Contact
-
-**[Your Name]**
-[LinkedIn](https://linkedin.com/in/yourprofile) · [Portfolio](https://yourportfolio.com) · [Email](mailto:you@email.com)
